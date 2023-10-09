@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\bin\Debug\radio button if else renk 1550.exe.config
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\bin\Debug\radio button if else renk 1550.exe
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\bin\Debug\radio button if else renk 1550.pdb
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio_button_if_else_renk_1550.Form1.resources
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio_button_if_else_renk_1550.Properties.Resources.resources
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.csproj.GenerateResource.cache
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.exe
+C:\Users\User\source\repos\radio button if else renk 1550\radio button if else renk 1550\obj\Debug\radio button if else renk 1550.pdb
